@@ -1,4 +1,21 @@
-### Hi there 👋
+### Hi, I'm Ellen! Here's a bit about me:
+
+💻 currently studying:
+ - computer science at UBC in the BCS second-degree program
+
+🎓 previously, I've studied:
+ - `Psychology` (B.Sc. 2014); `Marketing` (M.Sc. 2019)
+
+💡 currently working to learn:
+ - `Java` (for a software/OOD course); `React` + `Ruby on Rails` (self-taught for full-stack web dev) 
+
+🏆 previously, I've kept busy with:
+ - personal projects in `Python`, `C#`, `Racket`, `JavaScript`, `HTML`, `CSS`
+ - full-scale design and analysis of both qualitative and quantitative research
+ - volunteer leadership e.g. community admin and tech lead for an online hobby group of 2000+ members
+ - teaching and tutoring all sorts of knowledge in all sorts of contexts!
+
+🏳️‍🌈 Pronouns: she/her 🌐 Website: www.ellenlloyd.ca
 
 <!--
 **Jonqora/Jonqora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +28,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 -->
