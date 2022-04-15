@@ -7,7 +7,7 @@
  - `Psychology` (B.Sc. 2014); `Marketing` (M.Sc. 2019)
 
 💡 currently working to learn:
- - `Java` (for a software/OOD course); `React` + `Ruby on Rails` (learning some full-stack web dev) 
+ - `Java` (for a software/OOD course)
 
 🏆 previously, I've kept busy with:
  - personal projects in `Python`, `C#`, `Racket`, `JavaScript`, `HTML`, `CSS`
