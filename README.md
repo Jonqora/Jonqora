@@ -10,7 +10,7 @@
  - `Psychology` (B.Sc. 2014); `Marketing` (M.Sc. 2019)
 
 💡 currently working to learn:
- - `PHP` (for my internship tech stack)
+ - `PHP` (for intern tech stack)
 
 🏆 previously, I've kept busy with:
  - projects in `Python`, `C#`, `Java`, `Racket`, `JavaScript`, `HTML`, `CSS`
