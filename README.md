@@ -1,10 +1,10 @@
 ### Hi, I'm Ellen! Here's a bit about me:
 
 💻 currently studying:
- - computer science at UBC in the BCS second-degree program
+ - `Computer Science` at UBC in the BCS second-degree program
 
 💼 currently working at:
- - Altus Assessments, doing an 8-month software internship as a full-stack web developer
+ - `Altus Assessments`, doing an 8-month software internship as a full-stack web developer
 
 🎓 previously, I've studied:
  - `Psychology` (B.Sc. 2014); `Marketing` (M.Sc. 2019)
