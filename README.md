@@ -4,13 +4,13 @@
  - `Computer Science` at UBC in the BCS second-degree program
 
 💼 currently working at:
- - `Altus Assessments`, doing an 8-month software internship as a full-stack web developer
+ - `Altus Assessments`, doing an 8-month software internship as a full-stack web developer with `PHP` and `MySQL`
 
 🎓 previously, I've studied:
  - `Psychology` (B.Sc. 2014); `Marketing` (M.Sc. 2019)
 
 💡 currently working to learn:
- - `PHP` (for intern tech stack)
+ - `C` (for school), `Kotlin` (for fun!), `C++` (for suffering...)
 
 🏆 previously, I've kept busy with:
  - projects in `Python`, `C#`, `Java`, `Racket`, `JavaScript`, `HTML`, `CSS`
